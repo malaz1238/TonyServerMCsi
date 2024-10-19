@@ -9,33 +9,33 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "national-sheer.gl.joinmc.link",
-          "assigned_srv": "national-sheer.gl.joinmc.link",
+          "assigned_domain": "below-farming.gl.joinmc.link",
+          "assigned_srv": "below-farming.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "4a8d5f98-14a2-4b5c-a2bd-523ba4e51a0f",
+          "id": "2c382721-9600-46eb-a7e3-395885a1c16d",
           "ip_hostname": "23.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 26455,
-          "port_start": 26454,
+          "port_end": 27776,
+          "port_start": 27775,
           "region": "global",
           "static_ip4": "147.185.221.23",
           "tunnel_ip": "2602:fbaf:0:1::17"
         },
         "status": "allocated"
       },
-      "created_at": "2024-10-18T02:53:19.747082Z",
+      "created_at": "2024-10-19T01:29:15.263640Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "43f5deed-65e2-4813-ace0-03fcfe937ae4",
+      "id": "746e5a7b-4c73-40cf-b5cb-752bdb3e1f4b",
       "name": "Minecraft Java",
       "origin": {
         "data": {
-          "agent_id": "4c5eace9-b98e-4bfc-a4d5-0df2ee46b9e4",
-          "agent_name": "from-key-fb33",
+          "agent_id": "9784a613-254b-407b-bb6a-0e5ab2c4f9d5",
+          "agent_name": "IP Fija",
           "local_ip": "127.0.0.1",
           "local_port": 25565
         },
@@ -55,35 +55,35 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "ebay-months.gl.at.ply.gg",
+          "assigned_domain": "mountain-joe.gl.at.ply.gg",
           "assigned_srv": null,
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "b83f73d4-244a-4ac0-815f-0392b33c3ee7",
+          "id": "bd9d672b-ae24-465e-802c-6b6e00cd3b2d",
           "ip_hostname": "23.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 2103,
-          "port_start": 2102,
+          "port_end": 1063,
+          "port_start": 1062,
           "region": "global",
           "static_ip4": "147.185.221.23",
           "tunnel_ip": "2602:fbaf:0:1::17"
         },
         "status": "allocated"
       },
-      "created_at": "2024-10-18T17:15:58.615620Z",
+      "created_at": "2024-10-19T01:37:50.364452Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "5757a5da-0e4c-4cad-b81b-b82da5dea693",
+      "id": "3c8b69b0-090e-44e9-ab32-dddbd7ae1516",
       "name": "unnamed",
       "origin": {
         "data": {
-          "agent_id": "4c5eace9-b98e-4bfc-a4d5-0df2ee46b9e4",
-          "agent_name": "from-key-fb33",
+          "agent_id": "9784a613-254b-407b-bb6a-0e5ab2c4f9d5",
+          "agent_name": "IP Fija",
           "local_ip": "127.0.0.1",
-          "local_port": 2102
+          "local_port": 1062
         },
         "type": "agent"
       },
